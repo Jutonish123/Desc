@@ -1,0 +1,1248 @@
+body {
+text-align: center;
+background: #000;
+background-image:url(../img/bg/TNF.jpg);
+background-repeat:no-repeat;
+background-position:center 115px;
+background-size: 1903px;
+}
+
+header {
+	width: 100%;
+    background: #000;
+    height: 115px;
+    padding: 10px 9px;
+}
+
+.img__logo img {
+    background: #000;
+    height: 80px;
+    width: 171px;
+    margin-right: -70px;
+    margin-top: 10px;
+    margin-bottom: 10px;    
+
+}
+
+.intro {
+    margin-top: 300px;
+    margin-right: 150px;
+}
+
+.h1__intro {
+    font-family: "Helvetica Neue",Arial,sans-serif;
+    font-weight: 800;
+    font-size: 54px;
+	color: #fff;
+    line-height: 1.2em;
+    font-weight: bolder;
+    margin-left: -70px;
+    letter-spacing: -.015em;
+}
+
+.b__i {
+    width: 152px;
+    margin: 0;
+    margin-left: -70px;
+}
+
+.button__intro {
+    font-family: "Work Sans";
+    padding: 10px 26px 10px 26px;
+    letter-spacing: 1px;
+    background: #fff;
+    font-weight: 600;
+    border-radius: 0;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.button__intro:hover {
+    opacity: 0.8;
+}
+
+.h2__cont {
+    font-family: "Helvetica Neue",Arial,sans-serif;
+	color: #fff;
+	font-size: 37px;
+	padding-top: 400px;
+	padding-bottom: 30px;
+	letter-spacing: -.015em;
+    line-height: 1em;
+    font-weight: bolder;
+}
+
+.text1 {
+    font-family: "Helvetica Neue",Arial,sans-serif;
+    font-size: 12px;
+    color: #fff;
+    padding-top: 14px;
+}
+
+.text2 {
+    font-family: "Helvetica Neue",Arial,sans-serif;
+    font-size: 12px;
+    color: #fff;
+    padding-top: 14px;
+}
+
+.text3 {
+    font-family: "Helvetica Neue",Arial,sans-serif;
+    font-size: 12px;
+    color: #fff;
+    padding-top: 14px;
+}
+
+.cont {
+    display: flex;
+	text-align: center;
+}
+
+.img__cont img {
+    height: 395px;
+    color: #fff;
+}
+
+.img__cont2 img {
+    height: 395px;
+    color: #fff;
+}
+
+.img__cont3 img {
+    height: 395px;
+    color: #fff;
+}
+.text__cont {
+    font-family: "Helvetica Neue",Arial,sans-serif;
+    margin-left: 100px;
+    margin-top: 80px;
+    line-height: 1.2em;
+    color: #fff;
+    padding-bottom: 30px;
+    font-size: 20px;
+    margin-left: 40px;
+    width: 1070px;
+}
+
+form fieldset {
+    border:0 none;
+ }
+
+ form fieldset input {
+    height: 42px;
+    width: 558px;
+    margin-bottom: 10px;
+ }
+
+ form fieldset p {
+    font-family: 'Roboto', 'Helvetica Neue', Arial, 'Lucida Grande', Tahoma, Verdana, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    text-align: left;
+    margin-left: 277px;
+    color: #fff;
+    opacity: 0.7;
+    margin-top: -20px;
+ }
+
+ form fieldset label {
+    font-family: 'Roboto', 'Helvetica Neue', Arial, 'Lucida Grande', Tahoma, Verdana, sans-serif;     
+    width: 558px;
+    font-style: normal;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+ }
+
+ form fieldset .select__st {
+     margin-left: 350px;
+     text-align: left;
+ }
+
+ .pl {
+    padding-top: 10px;
+ }
+
+ .select__st select {
+    width: 558px;
+    height: 42px;
+    margin-left: -75px;
+    font-size: 16px;
+  }
+
+.p__text7 {
+    margin-left: 260px;
+    font-size: 18px;
+    color: #fff;
+}
+
+input[type=file].fsField {
+ color: white;
+ margin-left: -270px;
+}
+
+#label71445612 {
+     margin-left: 275px;
+     font-style: normal;
+     line-height: 1em;
+}
+
+.fsUpload::-webkit-file-upload-button {
+ visibility: hidden;
+}
+
+.fsUpload::before {
+ content: 'Choose file';
+ display: inline-block;
+ border: 1px solid #999;
+ padding: 4px 8px;
+ font-size: 13px;
+
+
+}
+
+.fsRowBody label {
+	color: #fff;
+	text-align: left;
+	margin-left: 260px;
+	display: flex;
+
+}
+
+input[type="file" i] {
+    -webkit-appearance: initial;
+    background-color: initial;
+    cursor: default;
+    padding: initial;
+    border: initial;
+}
+
+
+.p__text8 {
+    font-style: normal;
+    margin-left: 275px;
+    margin-top: 10px;
+    font-size: 12px;
+    color: #fff;
+    opacity: 0.4;
+}
+
+#textarea {
+    width: 558px;
+}
+
+.but__sub {
+    width: 91%;
+    text-align: left;
+    margin-left: 220px;
+}
+
+.button__submit {
+    font-family: 'Roboto', 'Helvetica Neue', Arial, 'Lucida Grande', Tahoma, Verdana, sans-serif;
+    padding: 5px 233.4px;
+    margin-left: 55px;
+    border-radius: 0;
+    margin-top: 30px;
+    font-size: 16px;
+    color: #000;
+    background: #fff;
+}
+
+footer {
+	width: 100%;
+    height: 150px;
+    position: absolute;
+    background: #555353;
+    color: #fff;
+    margin-top: 50px;
+    left: 0;
+}
+
+.p__rooter {
+    font-style: normal;
+    margin-top: 100px;
+    font-size: 16px;
+    font-family: "Helvetica Neue",Arial,sans-serif;
+    font-weight: bolder;
+}
+
+/******
+ Medie 
+ ******/
+ @media screen and (max-width: 1440px) {
+    body {
+       width: 1440px;
+       margin: 0;
+       text-align: center;  
+    }
+    .on {
+        margin: 0 auto;
+        
+    }
+    .button__intro {
+        margin: 0 auto;
+    }
+
+    .img__logo img {
+        margin-right: 10px;
+        margin-right: -60px;
+    }
+    .intro {
+        margin-top: 150px;
+    }
+    .h1__intro{
+        font-size: 54px;
+    }
+    .h2__cont {
+        font-size: 37px;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-top: 550px;
+    }
+    .cont img {
+        height: 394px;
+    }
+    .img__cont {
+        padding: 0;
+    }
+    .img__cont2 {
+       padding: 0;
+    }
+    .img__cont3 {
+       padding: 0;
+   } 
+    .cont p {
+        font-size: 12px;
+        line-height: 2;
+    }
+    .text__cont p{
+        font-family: "Helvetica Neue",Arial,sans-serif;
+        margin-left: 100px;
+        line-height: 1.2em;
+        color: #fff;
+        padding-bottom: 15px;
+        font-size: 20px;
+        margin-left: 20px;
+        width: 1070px;
+    }
+    form fieldset label {
+        font-size: 16px;
+        margin: 0 auto;
+        width: 250px;
+        margin-left: -310px;
+        margin-top: 10px;
+    }
+    form fieldset p {
+        font-size: 12px;
+        margin: 0;
+        width: 800px;
+        margin-bottom: 10px;
+        margin-left: 120px;
+    }
+    form fieldset input {
+       width: 558px;
+       height: 42px;
+       margin-bottom: 0;
+    }
+
+    form fieldset {
+        margin: 0;
+        width: 800px;
+        text-align: center;
+        margin-left: 170px;
+    }
+    
+    form fieldset .select__st {
+        margin: 0;
+        text-align: center;
+    }
+
+    #select {
+        margin: 0;
+        height: 42px;
+        width: 558px;
+        font-size: 16px;
+    }
+
+    .h__inp label {
+        width: 558px;
+        margin: 0;
+    }
+
+    #textarea {
+        width: 558px;
+        height: 150px;
+    }
+
+    .p__text8 {
+        margin: 0 auto;
+        margin-left: 290px;
+    }
+ 
+
+   .but__sub {
+       margin: 0 auto;
+   }
+   #label71445612 {
+    text-align: left;
+    width: 572px;
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 290px;
+    }
+
+    input[type=file].fsField {
+        margin: 0 auto;
+        margin-top: 20px;
+        margin-bottom: 15px;
+        margin-left: -235px;    
+    }
+   .but__sub1 {
+       margin: 0 auto;
+   }
+
+   .button__submit {
+        font-family: 'Roboto', 'Helvetica Neue', Arial, 'Lucida Grande', Tahoma, Verdana, sans-serif;
+        padding: 5px 233.4px;
+        margin-left: 240px;
+        border-radius: 0;
+        margin-top: 30px;
+        font-size: 16px;
+        color: #000;
+        background: #fff;
+    }
+
+   footer {
+       width: 100%;
+       height: 100px;
+   }
+   .p__rooter {
+       margin: 0 auto;
+       margin-top: 40px;
+   }
+}
+
+@media screen and (max-width: 1200px) {
+    input[type=file].fsField {
+        margin: 0 auto;
+        margin-top: 20px;
+        margin-bottom: 15px;
+        margin-left: -6%;    
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    body {
+       width: 1024px;
+       margin: 0;
+       text-align: center;  
+    }
+    .on {
+        margin: 0 auto;
+        
+    }
+    .button__intro {
+        margin: 0 auto;
+    }
+    header img {
+        width: 100px;
+    }
+    .img__logo img {
+        margin-right: 10px;
+    }
+    .intro {
+        margin-left: 50px;
+        margin-top: 150px;
+    }
+    .h1__intro{
+        font-size: 54px;
+    }
+    .h2__cont {
+        font-size: 30px;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-top: 550px;
+    }
+    .cont img {
+        height: 300px;
+    }
+    .img__cont {
+        padding: 0;
+    }
+    .img__cont2 {
+       padding: 0;
+    }
+    .img__cont3 {
+       padding: 0;
+   } 
+    .cont p {
+        font-size: 12px;
+        line-height: 2;
+    }
+    .text__cont p{
+        font-family: "Helvetica Neue",Arial,sans-serif;
+        margin-left: 100px;
+        line-height: 1.2em;
+        color: #fff;
+        padding-bottom: 15px;
+        font-size: 20px;
+        margin-left: 20px;
+        width: 800px;
+    }
+    form fieldset label {
+        font-size: 16px;
+        margin: 0 auto;
+        width: 250px;
+        margin-left: -310px;
+        margin-top: 10px;
+    }
+    form fieldset p {
+        font-size: 12px;
+        margin: 0;
+        width: 800px;
+        margin-bottom: 10px;
+        margin-left: 120px;
+    }
+    form fieldset input {
+       width: 558px;
+       height: 42px;
+       margin-bottom: 0;
+    }
+
+    form fieldset {
+        margin: 0;
+        width: 800px;
+        text-align: center;
+        margin-left: 70px;
+    }
+    
+    form fieldset .select__st {
+        margin: 0;
+        text-align: center;
+    }
+
+    #select {
+        margin: 0;
+        height: 42px;
+        width: 558px;
+        font-size: 16px;
+    }
+
+    .h__inp label {
+        width: 558px;
+        margin: 0;
+    }
+
+    #textarea {
+        width: 558px;
+        height: 150px;
+    }
+
+    .p__text8 {
+        margin: 0 auto;
+        margin-left: 190px;
+    }
+ 
+   .but__sub {
+       margin: 0 auto;
+   }
+   #label71445612 {
+    text-align: left;
+    width: 572px;
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 190px;
+    }
+
+    input[type=file].fsField {
+        margin: 0 auto;
+        margin-top: 20px;
+        margin-bottom: 15px;
+        margin-left: -260px;    
+    }
+   .but__sub1 {
+       margin: 0 auto;
+   }
+
+   .button__submit {
+        font-family: 'Roboto', 'Helvetica Neue', Arial, 'Lucida Grande', Tahoma, Verdana, sans-serif;
+        padding: 5px 233.4px;
+        margin-left: 150px;
+        border-radius: 0;
+        margin-top: 30px;
+        font-size: 16px;
+        color: #000;
+        background: #fff;
+    }
+
+   footer {
+       width: 100%;
+       height: 100px;
+   }
+   .p__rooter {
+       margin: 0 auto;
+       margin-top: 40px;
+   }
+}
+
+@media screen and (max-width: 990px) {
+    input[type=file].fsField {
+        margin: 0 auto;
+        margin-top: 20px;
+        margin-bottom: 15px;
+        margin-left: -3%; 
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    body {
+		width: 100%;
+		text-align: center;
+    }
+
+    .img__logo {
+        margin-right: 100px;
+    }
+
+    .button__intro {
+        margin: 0 auto;
+        margin-top: 10px;
+        margin-left: 75px;
+        width: 200px;
+    }
+    .intro {
+        margin-top: 150px;
+    }
+    .h1__intro {
+        margin: 0;
+        font-family: "Helvetica Neue",Arial,sans-serif;
+        font-weight: 800;
+        font-size: 54px;
+        color: #fff;
+        line-height: 1.2em;
+        font-weight: bolder;
+        letter-spacing: -.015em;
+    }
+    .h2__cont {
+        font-size: 37px;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 50px;
+        padding-top: 550px;
+    }
+
+    .cont {
+    	display: flex;
+    }
+    .cont img {
+        height: 217px;
+    }
+    .img__cont {
+        padding: 0;
+    }
+    .img__cont2 {
+       padding: 0;
+    }
+    .img__cont3 {
+       padding: 0;
+   } 
+    .cont p {
+        width: 217px;
+        font-size: 12px;
+        line-height: 1.5;
+    }
+    .text__cont p{
+        font-family: "Helvetica Neue",Arial,sans-serif;
+        margin-left: 100px;
+        line-height: 1.2em;
+        color: #fff;
+        padding-bottom: 15px;
+        font-size: 20px;
+        margin-left: 20px;
+        width: 600px;
+    }
+    .text__cont {
+        margin: 10px 10px;
+        margin-left: 20px; 
+        margin-top: 50px;      
+    }
+    form fieldset label {
+        font-size: 16px;
+        margin: 0 auto;
+        width: 250px;
+        margin-left: -310px;
+        margin-top: 10px;
+    }
+    form fieldset p {
+        font-size: 12px;
+        margin: 0;
+        width: 254px;
+       margin-bottom: 10px;
+    }
+    form fieldset input {
+       width: 558px;
+       height: 42px;
+       margin-bottom: 0;
+    }
+
+    form fieldset {
+        width: 558px;
+    }
+
+    form fieldset .select__st {
+        margin: 0;
+        text-align: center;
+    }
+    #select {
+        margin: 0;
+        width: 558px;
+        height: 42px;
+        font-size: 16px;
+    }
+ 
+    .h__inp label {
+        width: 558px;
+        margin: 0;
+    }
+
+	#textarea {
+        height: 150px;
+        width: 558px;
+	}
+    #label71445612 {
+        text-align: left;
+        width: 558px;
+		margin: 0;
+		margin-top: 20px;
+		margin-left: 65px;
+	}
+	
+	input[type=file].fsField {
+		margin: 0 auto;
+		margin-top: 20px;
+		margin-bottom: 15px;
+		margin-left: -265px;
+	}
+    .p__text8 {
+       margin: 0 auto;
+       margin-left: 65px;
+    }
+    .button__submit {
+        font-family: 'Roboto', 'Helvetica Neue', Arial, 'Lucida Grande', Tahoma, Verdana, sans-serif;
+        padding: 5px 233.4px;
+        margin-left: 35px;
+        border-radius: 0;
+        margin-top: 30px;
+        font-size: 16px;
+        color: #000;
+        background: #fff;
+    }
+
+   footer {
+       width: 100%;
+       height: 100px;
+   }
+   .p__rooter {
+       margin: 0 auto;
+       margin-top: 40px;
+   }
+}   
+
+@media screen and (max-width: 764px) {
+    input[type=file].fsField {
+        margin: 0 auto;
+        margin-top: 20px;
+        margin-bottom: 15px;
+        margin-left: -16%; 
+    }
+}
+
+@media screen and (max-width: 425px) {
+    body {
+		width: 100%;
+        text-align: center;
+        background-position:center 75px;
+    }
+    
+    .img__logo {
+        text-align: center;
+        height: 60px;
+        margin-right: 0px;
+    }
+    header {
+        height: 60px;
+    }
+    .img__logo img {
+        width: 80px;
+        height: 39px;
+    }
+    .intro {
+        margin-left: -10px;
+        margin-top: 100px;
+        width: 300px;
+    }
+
+    .h1__intro{
+        font-size: 32px;
+        margin: 0;
+        margin-left: 10px;
+        font-family: "Helvetica Neue",Arial,sans-serif;
+        font-weight: 800;
+	    color: #fff;
+        line-height: 1.2em;
+        font-weight: bolder;
+        letter-spacing: -.015em;
+        padding-top: 110px;
+    }
+
+    .b__i {
+        margin: 0;
+        width: 200px;
+    }
+
+    .button__intro {
+        margin: 0 auto;
+        margin-top: 20px;
+        margin-left: 10px;   
+    }
+
+    .h2__cont {
+        font-size: 30px;
+        text-align: center;
+        padding-top: 520px;
+        margin: 0 auto;
+        margin-top: 44px;
+        margin-bottom: 10px;
+    }
+
+    .cont {
+    	display: inline-block;
+    }
+
+    .cont img {
+        height: 385px;
+        padding-right: 0;
+    }
+
+    .cont p {
+        font-size: 12px;
+        margin-bottom: 40px;
+        line-height: 1.5;
+        width: 335px;
+        height: 40px;
+        
+    }
+    .text__cont p {
+        font-size: 20px;
+        line-height: 1.2;
+        width: 370px;
+        padding-left: 10px; 
+        margin-left: 0;
+    }
+    .text__cont {
+        margin: 10px 10px;
+    }
+
+    form fieldset {
+        width: 400px;
+        margin-left: 0;
+    }
+
+    form fieldset label {
+        font-size: 16px;
+        margin: 0 auto;
+        width: 250px;
+    }
+    form fieldset p {
+        margin: 0;
+        font-size: 12px;
+        margin: 0;
+        width: 254px;
+        margin-left: 75px;
+        margin-bottom: 10px;
+    }
+    form fieldset input {
+       width: 250px;
+       height: 25px;
+       margin-bottom: 0;
+    }
+
+    form fieldset .select__st {
+        margin: 0;
+        text-align: left;
+    }
+    #select {
+        margin: 0;
+        margin-left: 75px;
+        height: 31px;
+        width: 250px;
+        font-size: 12px;
+    }
+
+	#textarea {
+        width: 250px;
+        height: 100px;
+    }
+    .h__inp label {
+        width: 250px;
+        margin: 0;
+    }
+
+    .p__text8 {
+       margin: 0 auto;
+       margin-left: 75px;
+   }
+
+   .button__submit {
+       padding: 10px 60px;
+       margin: 0 auto;
+       margin-top: 30px;
+       font-size: 12px;
+       margin-left: 77px;
+   }
+
+	#label71445612 {
+		text-align: left;
+		margin: 0;
+		margin-top: 20px;
+        margin-left: 75px;
+        width: 250px;
+	}
+	
+	input[type=file].fsField {
+		margin: 0 auto;
+		margin-top: 20px;
+		margin-bottom: 15px;
+		margin-left: 45px;
+	}
+	
+   footer {
+       width: 100%;
+       height: 100px;
+   }
+   .p__rooter {
+       margin: 0 auto;
+       margin-top: 40px;
+   }
+}
+@media screen and (max-width: 375px) {
+	
+	body {
+		width: 100%;
+        text-align: center;
+        background-position:center 75px;
+    }
+    
+    .img__logo {
+        margin: 0;
+        text-align: center;
+    }
+
+    .button__intro {
+        width: 150px;
+        padding: 0;
+        padding: 13px 26px;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+
+    .intro {
+        margin-top: 150px;
+        margin-left: 0;
+    }
+    
+    .h1__intro{
+        font-size: 32px;
+        margin: 0;
+        font-family: "Helvetica Neue",Arial,sans-serif;
+        font-weight: 800;
+	    color: #fff;
+        line-height: 1.2em;
+        font-weight: bolder;
+        letter-spacing: -.015em;
+    }
+
+    .h2__cont {
+        font-size: 30px;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 50px;
+        padding-top: 470px;
+
+    }
+    .cont {
+        display: inline-block;
+  
+    }
+
+    .cont img {
+        padding: 0;
+        height: 300px;
+        margin-left: 10px;
+    }
+
+    .cont p {
+        width: 300px;
+        font-size: 12px;
+        line-height: 2;
+        margin-bottom: 50px;
+        margin-left: 10px;
+    }
+    .text__cont p {
+        width: 250px;
+        font-size: 12px;
+        line-height: 2;
+    }
+    form fieldset {
+        width: 250px;
+        margin-left: 40px;
+    }
+    
+    .text__cont {
+        margin: 10px 10px;
+    }
+
+    form fieldset label {
+        width: 250px;
+        text-align: left;
+        font-size: 12px;
+        margin: 0 auto;
+
+    }
+
+    form fieldset p {
+        font-size: 6px;
+        margin: 0;
+        width: 254px;
+    }
+    form fieldset input {
+       width: 250px;
+       height: 25px;
+    }
+
+    form fieldset .select__st {
+        margin: 0;
+        text-align: left;
+    }
+    #select {
+        margin: 0;
+        height: 31px;
+        width: 250px;
+        font-size: 6px;
+    }
+
+	#textarea {
+       
+        width: 250px;
+        height: 100px;
+    }
+    .h__inp label {
+        width: 250px;
+    }
+    .p__text8 {
+        width: 250px;
+        margin: 0 auto;
+        
+   }
+
+   .button__submit {
+       padding: 10px 40px;
+       margin: 0 auto;
+       margin-top: 30px;
+       font-size: 12px;
+       margin-left: 63px;
+   }
+
+	#label71445612 {
+		text-align: left;
+		margin: 0;
+        margin-top: 10px;
+        width: 250px;
+        margin-left: 40px;
+	}
+	
+	input[type=file].fsField {
+		margin: 0 auto;
+		margin-top: 20px;
+        margin-bottom: 15px;
+        width: 250px;
+        margin-left: -10px;
+	}
+
+	.p__text8 {
+        margin: 0 auto;
+        width: 250px;
+        margin-left: 45px;
+	}
+
+   footer {
+       width: 100%;
+       height: 100px;
+   }
+   .p__rooter {
+       margin: 0 auto;
+       margin-top: 40px;
+   }
+}
+@media screen and (max-width: 320px) {
+	
+	body {
+		width: 320px;
+        text-align: center;
+	}
+
+    .img__logo {
+        text-align: center;
+    }
+
+    .button__intro {
+        width: 150px;
+        padding: 0;
+        padding: 13px 26px;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+
+    .intro {
+        margin-top: 150px;
+        margin-left: 0;
+    }
+    
+    .h1__intro{
+        font-size: 32px;
+        margin: 0;
+        font-family: "Helvetica Neue",Arial,sans-serif;
+        font-weight: 800;
+	    color: #fff;
+        line-height: 1.2em;
+        font-weight: bolder;
+        letter-spacing: -.015em;
+    }
+
+    .h2__cont {
+        font-size: 30px;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 50px;
+        padding-top: 470px;
+
+    }
+    .cont {
+        display: inline-block;
+  
+    }
+
+    .cont img {
+        padding: 0;
+        height: 300px;
+        margin-left: 10px;
+    }
+
+    .cont p {
+        width: 300px;
+        font-size: 12px;
+        line-height: 2;
+        margin-bottom: 50px;
+        margin-left: 10px;
+    }
+    .text__cont p {
+        width: 250px;
+        font-size: 12px;
+        line-height: 2;
+    }
+    form fieldset {
+        width: 250px;
+        margin-left: 40px;
+    }
+    
+    .text__cont {
+        margin: 10px 10px;
+    }
+
+    form fieldset label {
+        width: 250px;
+        text-align: left;
+        font-size: 12px;
+        margin: 0 auto;
+
+    }
+
+    form fieldset p {
+        font-size: 6px;
+        margin: 0;
+        width: 254px;
+    }
+    form fieldset input {
+       width: 250px;
+       height: 25px;
+    }
+
+    form fieldset .select__st {
+        margin: 0;
+        text-align: left;
+    }
+    #select {
+        margin: 0;
+        height: 31px;
+        width: 250px;
+        font-size: 6px;
+    }
+
+	#textarea {
+       
+        width: 250px;
+        height: 100px;
+    }
+    .h__inp label {
+        width: 250px;
+    }
+    .p__text8 {
+        width: 250px;
+        margin: 0 auto;
+        
+   }
+
+   .button__submit {
+       padding: 10px 40px;
+       margin: 0 auto;
+       margin-top: 30px;
+       font-size: 12px;
+       margin-left: 33px;
+   }
+
+	#label71445612 {
+		text-align: left;
+		margin: 0;
+        margin-top: 10px;
+        width: 250px;
+        margin-left: 40px;
+	}
+	
+	input[type=file].fsField {
+		margin: 0 auto;
+		margin-top: 20px;
+        margin-bottom: 15px;
+        width: 250px;
+        margin-left: 35px;
+	}
+
+	.p__text8 {
+        margin: 0 auto;
+        width: 250px;
+        margin-left: 35px;
+	}
+
+   footer {
+       width: 100%;
+       height: 100px;
+   }
+   .p__rooter {
+       margin: 0 auto;
+       margin-top: 40px;
+   }
+}
